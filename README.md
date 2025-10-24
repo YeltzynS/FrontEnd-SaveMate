@@ -41,6 +41,38 @@ SafeMate-Frontend/
 ├── vite.config.js         # Configuración del entorno de desarrollo (si usas Vite)
 └── README.md
 
+
+### 📱 App móvil (Flutter)
+
+```bash
+lib/
+│
+├── main.dart ⚡
+├── screens/
+│   ├── login_screen.dart ⚡
+│   ├── home_screen.dart ⚡
+│   ├── transactions_screen.dart ⚡
+│   ├── savings_screen.dart ⚡
+│   └── ai_recommendations.dart ⚡
+│
+├── widgets/
+│   ├── transaction_card.dart ⚡
+│   ├── saving_goal_card.dart ⚡
+│   └── ai_tip_card.dart ⚡
+│
+├── services/
+│   ├── api_service.dart ⚡
+│   ├── notification_service.dart ⚡
+│   └── ai_service.dart ⚡
+│
+└── models/
+    ├── user.dart ⚡
+    ├── transaction.dart ⚡
+    ├── saving.dart ⚡
+    └── ai_recommendation.dart ⚡
+```
+
+
 ```
 
 ## 💻 3. Instalación y Ejecución Local
