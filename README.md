@@ -41,27 +41,31 @@ SafeMate-Frontend/
 ├── vite.config.js         # Configuración del entorno de desarrollo (si usas Vite)
 └── README.md
 
+```
 
-💻 3. Instalación y Ejecución Local
+## 💻 3. Instalación y Ejecución Local
 
 Sigue los pasos a continuación para clonar, instalar y ejecutar el proyecto en tu entorno local.
 
 🔹 Requisitos previos
 
-Tener instalado Node.js (versión 18 o superior).
+Antes de comenzar, asegúrate de tener instalado:
 
-Tener npm o yarn como gestor de paquetes.
+Node.js (versión 18 o superior)
 
-# 1. Clonar el repositorio
+npm o yarn como gestor de paquetes
+
+## 1. Clonar el repositorio
 git clone https://github.com/tu-usuario/SafeMate-IETI-2025.git
 
-# 2. Entrar al directorio del frontend
+## 2. Entrar al directorio del frontend
 cd SafeMate-Frontend
 
-# 3. Instalar las dependencias
+## 3. Instalar las dependencias
 npm install
 
-# 4. Iniciar el servidor de desarrollo
+## 4. Iniciar el servidor de desarrollo
 npm run dev
+
 
 
